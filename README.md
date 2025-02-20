@@ -1,4 +1,4 @@
-Bitcoin Prediction Model
+# Bitcoin Prediction Model
 
 -- The code file is .ipynb.
 -- Download it and open with google colab and run the code step by step.
